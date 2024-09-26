@@ -16,4 +16,4 @@ st.image ("https://www.livreshebdo.fr/sites/default/files/styles/article_princip
 st.sidebar.title ("Majorel Henry-Christian")
 
 #Vidéo dans la sidebar
-st.sidebar.video ("https://youtu.be/6DX45nLWM_c?si=tKJY-x3j7Da66JAs")
+st.sidebar.video ("https://youtu.be/s6saVUobqGM?si=D2paJJM5xFIMrst_")
