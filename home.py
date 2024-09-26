@@ -13,4 +13,4 @@ st.write (user_input)
 st.image ("https://www.livreshebdo.fr/sites/default/files/styles/article_principal/public/2022-06/Berserk.png?itok=hw6ZYicJ")
 
 #sidebarre
-st.sidebar.title (Majorel Henry-Christian)
+st.sidebar.title ("Majorel Henry-Christian")
