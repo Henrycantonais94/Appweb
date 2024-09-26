@@ -5,4 +5,9 @@ st.title ("Mon formulaire")
 st.write ("Ceci est un formulaire de contact")
 
 #Champ de saisi
-st.text_input ("Tapez votre texte : ")
+user_input = st.text_input ("Tapez votre texte :")
+
+st.write (user_input)
+
+#Image
+st.image ("https://www.manga-city.fr/wp-content/uploads/2023/03/berserk-10.jpg")
