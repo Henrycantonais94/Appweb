@@ -17,3 +17,9 @@ st.sidebar.title ("Majorel Henry-Christian")
 
 #Vidéo dans la sidebar
 st.sidebar.video ("https://youtu.be/s6saVUobqGM?si=D2paJJM5xFIMrst_")
+
+#Select bare
+student_grade = st.selectbox("Selectionnez votre niveau d'étude, ["Bac", "Bac +2", "Bac +5"])
+
+#Select slider
+age = st.select_slider("Quel est votre age ?", range(0; 99))
