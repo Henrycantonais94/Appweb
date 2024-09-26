@@ -1,1 +1,1 @@
-oppenai = 1.46.0
+oppenai == 1.46.0
